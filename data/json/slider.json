@@ -1,0 +1,25 @@
+{
+   "productos":[
+      {
+         "img":"240-49.PNG",
+         "nombre":"DOBLADORA DE CAÑOS 180°",
+         "stock":"1",
+         "descripcion":"gran dobladora de caños que sirve para todo, es de las mejores de la marca. Gran precio calidad y bla bla bla bla bla bla bla bla bla bla",
+         "precio":"5,00"
+      },
+      {
+         "img":"240-29.PNG",
+         "nombre":"VALVULA PINCHE",
+         "stock":"1",
+         "descripcion":"gran VALVULA europe pinche. bla bla bla es de las mejores de la marca. Gran precio calidad y bla bla bla bla bla bla bla bla bla bla",
+         "precio":"2,10"
+      },
+      {
+         "img":"240-16.PNG",
+         "nombre":"Bomba de vacio",
+         "stock":"1",
+         "descripcion":"modelo importado 2 CFM / 60 L/Min - 2 Etapas. Es de las bombas bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+         "precio":"130,00"
+      }
+   ]
+}
